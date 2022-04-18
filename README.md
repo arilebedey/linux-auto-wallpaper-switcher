@@ -1,7 +1,7 @@
-# Linux auto switcher
+# Linux auto wallpaper switcher
 ## a-la-moon-base.jpg
 ![image](wallpapers/a-la-moon-base.jpg)
-## wallpapers/altai-mountains-lake-scenic-reflection-clouds-dark-gloomy-fog.jpeg
+## altai-mountains-lake-scenic-reflection-clouds-dark-gloomy-fog.jpeg
 ![image](wallpapers/altai-mountains-lake-scenic-reflection-clouds-dark-gloomy-fog.jpeg)
 ## altai-mountains-valley-hills-river-landscape-19372.jpg
 ![image](wallpapers/altai-mountains-valley-hills-river-landscape-19372.jpg)
@@ -28,4 +28,4 @@
 ## rocks-sunset-clouds-nature.jpeg
 ![image](wallpapers/rocks-sunset-clouds-nature.jpeg)
 ## sunsethorizon.jpg
-![image](sunsethorizon.jpg)
+![image](wallpapers/sunsethorizon.jpg)
