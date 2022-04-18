@@ -1,4 +1,4 @@
-# Linux auto wallpaper switcher
+# linux-auto-wallpaper-switcher
 ## a-la-moon-base.jpg
 ![image](wallpapers/a-la-moon-base.jpg)
 ## altai-mountains-lake-scenic-reflection-clouds-dark-gloomy-fog.jpeg
