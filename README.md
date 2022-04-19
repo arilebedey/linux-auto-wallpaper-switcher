@@ -1,4 +1,4 @@
-# linux-auto-wallpaper-switcher
+# Linux auto wallpaper switcher
 ## a-la-moon-base.jpg
 ![image](wallpapers/a-la-moon-base.jpg)
 ## altai-mountains-lake-scenic-reflection-clouds-dark-gloomy-fog.jpeg
@@ -27,5 +27,7 @@
 ![image](wallpapers/river-china-landscape.jpg)
 ## rocks-sunset-clouds-nature.jpeg
 ![image](wallpapers/rocks-sunset-clouds-nature.jpeg)
+## russia-summer-paysage.jpg
+![image](wallpapers/russia-summer-paysage.jpg)
 ## sunsethorizon.jpg
 ![image](wallpapers/sunsethorizon.jpg)
