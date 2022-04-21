@@ -28,8 +28,8 @@ data = [
 ["lateevening", lambda: todayAt(17, 26), lambda: todayAt(19, 15), "/home/ari/Images/Wallpapers/mountain-aurora.jpg"],
 ["dusk", lambda: todayAt(19, 16), lambda: todayAt(20, 55), "/home/ari/Images/Wallpapers/sunsethorizon.jpg"],
 ["night", lambda: todayAt(20, 56), lambda: todayAt(21, 58), "/home/ari/Images/Wallpapers/iss-aurora.jpg"],
-["latenight", lambda: todayAt(21, 59), lambda: todayAt(23, 59, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"],
-["latenight2", lambda: todayAt(0, 0), lambda: todayAt(1, 41, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"]
+["latenight_with_midnight_quick_fix", lambda: todayAt(21, 59), lambda: todayAt(23, 59, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"],
+["latenight_with_midnight_quick_fix", lambda: todayAt(0, 0), lambda: todayAt(1, 41, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"]
 ]
 
 now = timeNow()
