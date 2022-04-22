@@ -10,7 +10,6 @@ def timeNow():
     now = datetime.datetime.now()
     return(now.replace(second=0, microsecond=0))
 
-
 # The time requires to be set without the leading zero, for example 06:09 AM should be todayAt(6, 9)
 
 data = [
