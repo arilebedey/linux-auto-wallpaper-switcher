@@ -16,20 +16,21 @@ data = [
 ["deepnight", lambda: todayAt(1, 41), lambda: todayAt(5, 10), "/home/ari/Images/Wallpapers/energy-aurora.jpg"],
 ["dawn" , lambda: todayAt(5, 11), lambda: todayAt(5, 59), "/home/ari/Images/Wallpapers/river-china-landscape.jpg"],
 ["earlymorning", lambda: todayAt(6, 0), lambda: todayAt(7, 12), "/home/ari/Images/Wallpapers/altai-mountains-lake-scenic-reflection-clouds-dark-gloomy-fog.jpeg"],
-["morning", lambda: todayAt(7, 13), lambda: todayAt(8, 42), "/home/ari/Images/Wallpapers/altai-republic.jpg"],
+["morning", lambda: todayAt(7, 13), lambda: todayAt(8, 42), "/home/ari/Images/Wallpapers/birch-trail.jpg"],
 ["middlemorning", lambda: todayAt(8, 43), lambda: todayAt(10, 7), "/home/ari/Images/Wallpapers/justrees.jpg"],
 ["latemorning", lambda: todayAt(10, 8), lambda: todayAt(10, 35), "/home/ari/Images/Wallpapers/cool-sunny-ice-antartica.jpg"],
 ["latermorning", lambda: todayAt(10, 36), lambda: todayAt(11, 27), "/home/ari/Images/Wallpapers/russia-summer-paysage.jpg"],
-["noon", lambda: todayAt(11, 28), lambda: todayAt(13, 39), "/home/ari/Images/Wallpapers/birch-trail.jpg"],
-["latenoon", lambda: todayAt(13, 40), lambda: todayAt(14, 17), "/home/ari/Images/Wallpapers/altai-mountains-valley-hills-river-landscape-19372.jpg"],
-["afternoon", lambda: todayAt(14, 18), lambda: todayAt(15, 10), "/home/ari/Images/Wallpapers/mountain-full-of-pines.jpg"],
-["earlyevening", lambda: todayAt(15, 11), lambda: todayAt(17, 0), "/home/ari/Images/Wallpapers/spring-in-antarctica.jpg"],
-["evening", lambda: todayAt(17, 1), lambda: todayAt(17, 25), "/home/ari/Images/Wallpapers/a-la-moon-base.jpg"],
-["lateevening", lambda: todayAt(17, 26), lambda: todayAt(19, 15), "/home/ari/Images/Wallpapers/mountain-aurora.jpg"],
-["dusk", lambda: todayAt(19, 16), lambda: todayAt(20, 55), "/home/ari/Images/Wallpapers/sunsethorizon.jpg"],
+["noon", lambda: todayAt(11, 28), lambda: todayAt(12, 10), "/home/ari/Images/Wallpapers/altai-republic.jpg"],
+["noon+", lambda: todayAt(12, 11), lambda: todayAt(15, 36), "/home/ari/Images/Wallpapers/mountain-full-of-pines.jpg"],
+["latenoon", lambda: todayAt(15, 37), lambda: todayAt(17, 49), "/home/ari/Images/Wallpapers/altai-mountains-valley-hills-river-landscape-19372.jpg"],
+# ["afternoon", lambda: todayAt(15, 18), lambda: todayAt(15, 10), "/home/ari/Images/Wallpapers/mountain-full-of-pines.jpg"],
+["earlyevening", lambda: todayAt(17, 50), lambda: todayAt(18, 0), "/home/ari/Images/Wallpapers/spring-in-antarctica.jpg"],
+["evening", lambda: todayAt(18, 1), lambda: todayAt(19, 10), "/home/ari/Images/Wallpapers/a-la-moon-base.jpg"],
+["dusk", lambda: todayAt(19, 11), lambda: todayAt(20, 55), "/home/ari/Images/Wallpapers/sunsethorizon.jpg"],
+["lateevening", lambda: todayAt(20, 56), lambda: todayAt(20, 55), "/home/ari/Images/Wallpapers/mountain-aurora.jpg"],
 ["night", lambda: todayAt(20, 56), lambda: todayAt(21, 58), "/home/ari/Images/Wallpapers/iss-aurora.jpg"],
-["latenight_with_midnight_quick_fix", lambda: todayAt(21, 59), lambda: todayAt(23, 59, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"],
-["latenight_with_midnight_quick_fix", lambda: todayAt(0, 0), lambda: todayAt(1, 41, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"]
+["latenight", lambda: todayAt(21, 59), lambda: todayAt(23, 59, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"],
+["latenight2", lambda: todayAt(0, 0), lambda: todayAt(1, 41, 59), "/home/ari/Images/Wallpapers/late-night-aurora.jpg"]
 ]
 
 now = timeNow()
